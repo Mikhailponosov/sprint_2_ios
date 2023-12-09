@@ -13,3 +13,5 @@ var person = Person(firstName: "John", lastName: "Doe", fullName: "")
 print(person.fullName)
 person.fullName = "Jane Doe"
 print(person.fullName)
+print("hello")
+
